@@ -25,3 +25,6 @@ set3.remove("flere")
 set3.remove("ord")
 set3.add("volvo")
 print(set3)
+
+set3.discard("apple")
+print(set3)
