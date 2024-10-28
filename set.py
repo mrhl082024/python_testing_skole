@@ -17,3 +17,11 @@ print(set3)
 
 set3.update(set2)
 print(set3)
+
+set3.remove("volvo")
+print(set3)
+set3.remove("enda")
+set3.remove("flere")
+set3.remove("ord")
+set3.add("volvo")
+print(set3)
