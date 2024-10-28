@@ -9,3 +9,4 @@ print(type(set1))
 set2 = {"enda", "flere", "ord"}
 for x in set2:
     print(x)
+print("enda" in set2)
