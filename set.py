@@ -28,3 +28,7 @@ print(set3)
 
 set3.discard("apple")
 print(set3)
+
+set4 = {"eivind", "kjell", "john"}
+set4.pop()
+print(set4)
