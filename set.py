@@ -32,3 +32,8 @@ print(set3)
 set4 = {"eivind", "kjell", "john"}
 set4.pop()
 print(set4)
+set4.clear()
+print(set4)
+del set4
+
+
