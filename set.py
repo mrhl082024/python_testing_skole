@@ -37,3 +37,8 @@ print(set4)
 del set4
 
 
+set5 = {1, 2, 3}
+set6 = {"a", "b", "c"}
+set7 = {"bmw", "volvo", "audi"}
+set8 = set5 | set6 | set7
+print(set8)
